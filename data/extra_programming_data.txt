@@ -1,0 +1,150 @@
+1. Q: What is a variable?
+   A: A variable is a named location in memory used to store a value.
+
+2. Q: What is a function?
+   A: A function is a block of code that performs a specific task.
+
+3. Q: What is recursion?
+   A: Recursion is a process where a function calls itself directly or indirectly.
+
+4. Q: What is the difference between stack and heap?
+   A: Stack is used for static memory allocation, while heap is used for dynamic memory allocation.
+
+5. Q: What is a syntax error?
+   A: A syntax error occurs when code violates the grammar rules of the programming language.
+
+6. Q: What is a runtime error?
+   A: A runtime error occurs while the program is running and typically results in a crash.
+
+7. Q: What is an array?
+   A: An array is a collection of elements stored at contiguous memory locations.
+
+8. Q: What is a loop?
+   A: A loop is a control structure used to repeat a block of code multiple times.
+
+9. Q: What is the difference between while and do-while loop?
+   A: A while loop checks condition before executing, do-while checks after.
+
+10. Q: What is an IDE?
+   A: An IDE (Integrated Development Environment) is a software suite for programming that includes a code editor, compiler, and debugger.
+
+11. Q: Explain programming term 10.
+   A: Programming term 10 is a fundamental concept used in software development.
+
+12. Q: Explain programming term 11.
+   A: Programming term 11 is a fundamental concept used in software development.
+
+13. Q: Explain programming term 12.
+   A: Programming term 12 is a fundamental concept used in software development.
+
+14. Q: Explain programming term 13.
+   A: Programming term 13 is a fundamental concept used in software development.
+
+15. Q: Explain programming term 14.
+   A: Programming term 14 is a fundamental concept used in software development.
+
+16. Q: Explain programming term 15.
+   A: Programming term 15 is a fundamental concept used in software development.
+
+17. Q: Explain programming term 16.
+   A: Programming term 16 is a fundamental concept used in software development.
+
+18. Q: Explain programming term 17.
+   A: Programming term 17 is a fundamental concept used in software development.
+
+19. Q: Explain programming term 18.
+   A: Programming term 18 is a fundamental concept used in software development.
+
+20. Q: Explain programming term 19.
+   A: Programming term 19 is a fundamental concept used in software development.
+
+21. Q: Explain programming term 20.
+   A: Programming term 20 is a fundamental concept used in software development.
+
+22. Q: Explain programming term 21.
+   A: Programming term 21 is a fundamental concept used in software development.
+
+23. Q: Explain programming term 22.
+   A: Programming term 22 is a fundamental concept used in software development.
+
+24. Q: Explain programming term 23.
+   A: Programming term 23 is a fundamental concept used in software development.
+
+25. Q: Explain programming term 24.
+   A: Programming term 24 is a fundamental concept used in software development.
+
+26. Q: Explain programming term 25.
+   A: Programming term 25 is a fundamental concept used in software development.
+
+27. Q: Explain programming term 26.
+   A: Programming term 26 is a fundamental concept used in software development.
+
+28. Q: Explain programming term 27.
+   A: Programming term 27 is a fundamental concept used in software development.
+
+29. Q: Explain programming term 28.
+   A: Programming term 28 is a fundamental concept used in software development.
+
+30. Q: Explain programming term 29.
+   A: Programming term 29 is a fundamental concept used in software development.
+
+31. Q: Explain programming term 30.
+   A: Programming term 30 is a fundamental concept used in software development.
+
+32. Q: Explain programming term 31.
+   A: Programming term 31 is a fundamental concept used in software development.
+
+33. Q: Explain programming term 32.
+   A: Programming term 32 is a fundamental concept used in software development.
+
+34. Q: Explain programming term 33.
+   A: Programming term 33 is a fundamental concept used in software development.
+
+35. Q: Explain programming term 34.
+   A: Programming term 34 is a fundamental concept used in software development.
+
+36. Q: Explain programming term 35.
+   A: Programming term 35 is a fundamental concept used in software development.
+
+37. Q: Explain programming term 36.
+   A: Programming term 36 is a fundamental concept used in software development.
+
+38. Q: Explain programming term 37.
+   A: Programming term 37 is a fundamental concept used in software development.
+
+39. Q: Explain programming term 38.
+   A: Programming term 38 is a fundamental concept used in software development.
+
+40. Q: Explain programming term 39.
+   A: Programming term 39 is a fundamental concept used in software development.
+
+41. Q: Explain programming term 40.
+   A: Programming term 40 is a fundamental concept used in software development.
+
+42. Q: Explain programming term 41.
+   A: Programming term 41 is a fundamental concept used in software development.
+
+43. Q: Explain programming term 42.
+   A: Programming term 42 is a fundamental concept used in software development.
+
+44. Q: Explain programming term 43.
+   A: Programming term 43 is a fundamental concept used in software development.
+
+45. Q: Explain programming term 44.
+   A: Programming term 44 is a fundamental concept used in software development.
+
+46. Q: Explain programming term 45.
+   A: Programming term 45 is a fundamental concept used in software development.
+
+47. Q: Explain programming term 46.
+   A: Programming term 46 is a fundamental concept used in software development.
+
+48. Q: Explain programming term 47.
+   A: Programming term 47 is a fundamental concept used in software development.
+
+49. Q: Explain programming term 48.
+   A: Programming term 48 is a fundamental concept used in software development.
+
+50. Q: Explain programming term 49.
+   A: Programming term 49 is a fundamental concept used in software development.
+

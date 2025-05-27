@@ -10,3 +10,17 @@ now time
 Interesting! Tell me more about that.
 how are you
 Interesting! Tell me more about that.
+What is a variable?
+A variable is a named location in memory used to store a value.
+What is a variable?
+A variable is a named location in memory used to store a value.
+What is a function
+A function is a block of code that performs a specific task.
+
+Programming term 49 is a fundamental concept used in software development.
+variable
+A variable is a named location in memory used to store a value.
+memory
+Interesting! Tell me more about that.
+weather
+The weather in Dhaka is sunny with 30°C.
